@@ -1,0 +1,33 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# Environment / Secrets
+.env
+.env.*
+application-local.yml
+
+# Test
+coverage/
+
+docs/
